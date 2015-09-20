@@ -1,0 +1,16 @@
+table#game-board{
+	display: inline block;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 50px;
+
+}
+td{
+	padding: 20px;
+	border: 1px solid black;
+}
+button{
+	height: 100%;
+	width: 100%;
+	padding: -80px;
+}
